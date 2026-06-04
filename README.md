@@ -155,7 +155,11 @@ Compares workforce metrics across departments.
 
 ### Dashboard Preview
 
+![Uploading .powebi.png…](https://github.com/RushiNandanReddy/hr-analytics-dashboard/blob/main/powerbi/.powebi.png)
 
 
 ### Tableau Dashboard Preview
+
+![Uploading tableau.png…](https://github.com/RushiNandanReddy/hr-analytics-dashboard/blob/main/tableau/tableau.png)
+
 
